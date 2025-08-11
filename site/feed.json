@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T21:36:55.850693Z",
+  "updated": "2025-08-11T21:39:01.264383Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -54,8 +54,20 @@
       "slug": "exercices-d-velopp-halt-res-guide-9"
     },
     {
+      "title": "Exercices : fentes — guide 4",
+      "slug": "exercices-fentes-guide-4"
+    },
+    {
+      "title": "Exercices : soulevé de terre roumain — guide 6",
+      "slug": "exercices-soulev-de-terre-roumain-guide-6"
+    },
+    {
       "title": "Haltères réglables : débutant — guide 2",
       "slug": "halt-res-r-glables-d-butant-guide-2"
+    },
+    {
+      "title": "Haltères réglables : débutant — guide 3",
+      "slug": "halt-res-r-glables-d-butant-guide-3"
     },
     {
       "title": "Haltères réglables : petits espaces — guide 7",
@@ -154,6 +166,10 @@
       "slug": "rangements-diy-guide-12"
     },
     {
+      "title": "Rangements : DIY — guide 2",
+      "slug": "rangements-diy-guide-2"
+    },
+    {
       "title": "Rangements : DIY — guide 8",
       "slug": "rangements-diy-guide-8"
     },
@@ -168,6 +184,10 @@
     {
       "title": "Séance jambes maison sans rack",
       "slug": "s-ance-jambes-maison-sans-rack"
+    },
+    {
+      "title": "Sécurité & technique : amplitude — guide 10",
+      "slug": "s-curit-and-technique-amplitude-guide-10"
     },
     {
       "title": "Sécurité & technique : deload — guide 3",
