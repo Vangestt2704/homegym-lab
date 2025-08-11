@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T21:17:33.331527Z",
+  "updated": "2025-08-11T21:21:06.359011Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -66,8 +66,16 @@
       "slug": "kettlebells-comp-tition-guide-1"
     },
     {
+      "title": "Kettlebells : débutant 8–12 kg — guide 15",
+      "slug": "kettlebells-d-butant-8-12-kg-guide-15"
+    },
+    {
       "title": "Kettlebells : double 16 kg — guide 11",
       "slug": "kettlebells-double-16-kg-guide-11"
+    },
+    {
+      "title": "Kettlebells : prise en main — guide 5",
+      "slug": "kettlebells-prise-en-main-guide-5"
     },
     {
       "title": "Élastiques de musculation : home gym — guide 12",
@@ -98,8 +106,16 @@
       "slug": "optimiser-la-r-cup-ration-sommeil-et-mobilit"
     },
     {
+      "title": "Programmes d'entraînement : full body 3j — guide 11",
+      "slug": "programmes-dentra-nement-full-body-3j-guide-11"
+    },
+    {
       "title": "Programmes d'entraînement : full body 3j — guide 4",
       "slug": "programmes-dentra-nement-full-body-3j-guide-4"
+    },
+    {
+      "title": "Programmes d'entraînement : prise de masse — guide 8",
+      "slug": "programmes-dentra-nement-prise-de-masse-guide-8"
     },
     {
       "title": "Programmes d'entraînement : push/pull/legs — guide 5",
@@ -116,6 +132,10 @@
     {
       "title": "Rangements : crochets muraux — guide 17",
       "slug": "rangements-crochets-muraux-guide-17"
+    },
+    {
+      "title": "Rangements : crochets muraux — guide 5",
+      "slug": "rangements-crochets-muraux-guide-5"
     },
     {
       "title": "Rangements : DIY — guide 12",
