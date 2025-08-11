@@ -1,6 +1,10 @@
 {
-  "updated": "2025-08-11T21:00:33.107400Z",
+  "updated": "2025-08-11T21:01:08.106212Z",
   "items": [
+    {
+      "title": "Amplitude complète : quand la réduire ?",
+      "slug": "amplitude-compl-te-quand-la-r-duire"
+    },
     {
       "title": "Banc de musculation : compact — guide 11",
       "slug": "banc-de-musculation-compact-guide-11"
@@ -34,8 +38,24 @@
       "slug": "lastiques-de-musculation-r-ducation-guide-1"
     },
     {
+      "title": "Élastiques de musculation : rééducation — guide 16",
+      "slug": "lastiques-de-musculation-r-ducation-guide-16"
+    },
+    {
+      "title": "Programmes d'entraînement : push/pull/legs — guide 7",
+      "slug": "programmes-dentra-nement-push-pull-legs-guide-7"
+    },
+    {
+      "title": "Programmes d'entraînement : reprise — guide 10",
+      "slug": "programmes-dentra-nement-reprise-guide-10"
+    },
+    {
       "title": "Rangements : sécurité — guide 15",
       "slug": "rangements-s-curit-guide-15"
+    },
+    {
+      "title": "Séance jambes maison sans rack",
+      "slug": "s-ance-jambes-maison-sans-rack"
     },
     {
       "title": "Sécurité & technique : deload — guide 3",
