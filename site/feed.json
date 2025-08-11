@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T21:11:55.846601Z",
+  "updated": "2025-08-11T21:12:40.354626Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -28,6 +28,10 @@
     {
       "title": "Barre de traction : plafond — guide 9",
       "slug": "barre-de-traction-plafond-guide-9"
+    },
+    {
+      "title": "Barre de traction : porte — guide 13",
+      "slug": "barre-de-traction-porte-guide-13"
     },
     {
       "title": "Barre de traction : porte — guide 8",
@@ -74,6 +78,18 @@
       "slug": "lastiques-de-musculation-set-complet-guide-20"
     },
     {
+      "title": "Mesurer ses progrès sans balance",
+      "slug": "mesurer-ses-progr-s-sans-balance"
+    },
+    {
+      "title": "Optimiser la récupération : sommeil et mobilité",
+      "slug": "optimiser-la-r-cup-ration-sommeil-et-mobilit"
+    },
+    {
+      "title": "Programmes d'entraînement : full body 3j — guide 4",
+      "slug": "programmes-dentra-nement-full-body-3j-guide-4"
+    },
+    {
       "title": "Programmes d'entraînement : push/pull/legs — guide 5",
       "slug": "programmes-dentra-nement-push-pull-legs-guide-5"
     },
@@ -88,6 +104,10 @@
     {
       "title": "Rangements : DIY — guide 12",
       "slug": "rangements-diy-guide-12"
+    },
+    {
+      "title": "Rangements : DIY — guide 8",
+      "slug": "rangements-diy-guide-8"
     },
     {
       "title": "Rangements : sécurité — guide 15",
