@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T21:01:08.106212Z",
+  "updated": "2025-08-11T21:11:36.074986Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -8,6 +8,14 @@
     {
       "title": "Banc de musculation : compact — guide 11",
       "slug": "banc-de-musculation-compact-guide-11"
+    },
+    {
+      "title": "Banc de musculation : compact — guide 19",
+      "slug": "banc-de-musculation-compact-guide-19"
+    },
+    {
+      "title": "Banc de musculation : incliné — guide 12",
+      "slug": "banc-de-musculation-inclin-guide-12"
     },
     {
       "title": "Banc de musculation : pliable — guide 4",
@@ -26,6 +34,10 @@
       "slug": "barre-de-traction-sans-percer-a-tient-vraiment"
     },
     {
+      "title": "Exercices : développé haltères — guide 9",
+      "slug": "exercices-d-velopp-halt-res-guide-9"
+    },
+    {
       "title": "Haltères réglables : débutant — guide 2",
       "slug": "halt-res-r-glables-d-butant-guide-2"
     },
@@ -34,12 +46,20 @@
       "slug": "kettlebells-comp-tition-guide-1"
     },
     {
+      "title": "Élastiques de musculation : home gym — guide 12",
+      "slug": "lastiques-de-musculation-home-gym-guide-12"
+    },
+    {
       "title": "Élastiques de musculation : rééducation — guide 1",
       "slug": "lastiques-de-musculation-r-ducation-guide-1"
     },
     {
       "title": "Élastiques de musculation : rééducation — guide 16",
       "slug": "lastiques-de-musculation-r-ducation-guide-16"
+    },
+    {
+      "title": "Élastiques de musculation : set complet — guide 20",
+      "slug": "lastiques-de-musculation-set-complet-guide-20"
     },
     {
       "title": "Programmes d'entraînement : push/pull/legs — guide 7",
