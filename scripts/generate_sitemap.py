@@ -2,7 +2,7 @@
 import os, glob, datetime
 
 ROOT = os.path.dirname(os.path.dirname(__file__))
-BASE = "https://YOUR-DOMAIN.pages.dev"
+BASE = "https://homegym-lab.pages.dev"
 paths = ["/", "/outils/", "/a-propos.html", "/feed.xml"]
 for html in glob.glob(os.path.join(ROOT, "site", "articles", "*.html")):
     paths.append("/articles/" + os.path.basename(html))
