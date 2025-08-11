@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T21:11:36.074986Z",
+  "updated": "2025-08-11T21:11:55.846601Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -30,8 +30,16 @@
       "slug": "barre-de-traction-plafond-guide-9"
     },
     {
+      "title": "Barre de traction : porte — guide 8",
+      "slug": "barre-de-traction-porte-guide-8"
+    },
+    {
       "title": "Barre de traction sans percer : ça tient vraiment ?",
       "slug": "barre-de-traction-sans-percer-a-tient-vraiment"
+    },
+    {
+      "title": "Deload : quand et comment le faire ?",
+      "slug": "deload-quand-et-comment-le-faire"
     },
     {
       "title": "Exercices : développé haltères — guide 9",
@@ -40,6 +48,10 @@
     {
       "title": "Haltères réglables : débutant — guide 2",
       "slug": "halt-res-r-glables-d-butant-guide-2"
+    },
+    {
+      "title": "Haltères réglables : petits espaces — guide 7",
+      "slug": "halt-res-r-glables-petits-espaces-guide-7"
     },
     {
       "title": "Kettlebells : compétition — guide 1",
@@ -62,12 +74,20 @@
       "slug": "lastiques-de-musculation-set-complet-guide-20"
     },
     {
+      "title": "Programmes d'entraînement : push/pull/legs — guide 5",
+      "slug": "programmes-dentra-nement-push-pull-legs-guide-5"
+    },
+    {
       "title": "Programmes d'entraînement : push/pull/legs — guide 7",
       "slug": "programmes-dentra-nement-push-pull-legs-guide-7"
     },
     {
       "title": "Programmes d'entraînement : reprise — guide 10",
       "slug": "programmes-dentra-nement-reprise-guide-10"
+    },
+    {
+      "title": "Rangements : DIY — guide 12",
+      "slug": "rangements-diy-guide-12"
     },
     {
       "title": "Rangements : sécurité — guide 15",
