@@ -1,0 +1,21 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<title>Calculateur 1RM — Home Gym Lab</title><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/assets/styles.css"></head><body>
+<header class="site-header"><h1>Home Gym Lab</h1><nav><a href="/">Accueil</a> • <a href="/outils/">Outils</a></nav></header>
+<main><div class="card"><h2>Calculateur 1RM (Epley)</h2>
+<label>Poids (kg) <input id="w" type="number" step="0.5"></label> 
+<label>Répétitions (1–12) <input id="r" type="number" step="1"></label>
+<button class="cta" onclick="calc()">Calculer</button>
+<p id="res"></p>
+<div class="table"><table><thead><tr><th>%</th><th>Charge (kg)</th></tr></thead><tbody id="t"></tbody></table></div>
+</div></main><footer><p>© 2025 Home Gym Lab</p></footer>
+<script>
+function calc(){var w=+document.getElementById('w').value;var r=+document.getElementById('r').value;
+if(!w||!r){document.getElementById('res').textContent='Entre un poids et des reps.';return;}
+var onerm = Math.round(w*(1+r/30));
+document.getElementById('res').innerHTML='1RM estimée: <b>'+onerm+' kg</b>';
+var perc=[0.5,0.6,0.7,0.8,0.85,0.9,0.95,1.0];var out='';
+for(var i=0;i<perc.length;i++){out+='<tr><td>'+(perc[i]*100).toFixed(0)+'%</td><td>'+Math.round(onerm*perc[i])+'</td></tr>'}
+document.getElementById('t').innerHTML=out;
+}
+</script></body></html>
