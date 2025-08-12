@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-11T21:46:10.935772Z",
+  "updated": "2025-08-12T07:32:16.867837Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -78,6 +78,10 @@
       "slug": "exercices-soulev-de-terre-roumain-guide-6"
     },
     {
+      "title": "Haltères réglables : débutant — guide 10",
+      "slug": "halt-res-r-glables-d-butant-guide-10"
+    },
+    {
       "title": "Haltères réglables : débutant — guide 2",
       "slug": "halt-res-r-glables-d-butant-guide-2"
     },
@@ -98,12 +102,20 @@
       "slug": "kettlebells-comp-tition-guide-1"
     },
     {
+      "title": "Kettlebells : compétition — guide 17",
+      "slug": "kettlebells-comp-tition-guide-17"
+    },
+    {
       "title": "Kettlebells : débutant 8–12 kg — guide 15",
       "slug": "kettlebells-d-butant-8-12-kg-guide-15"
     },
     {
       "title": "Kettlebells : double 16 kg — guide 11",
       "slug": "kettlebells-double-16-kg-guide-11"
+    },
+    {
+      "title": "Kettlebells : fonte vs revêtement — guide 18",
+      "slug": "kettlebells-fonte-vs-rev-tement-guide-18"
     },
     {
       "title": "Kettlebells : prise en main — guide 5",
@@ -202,12 +214,20 @@
       "slug": "rangements-s-curit-guide-15"
     },
     {
+      "title": "Rangements : sécurité — guide 20",
+      "slug": "rangements-s-curit-guide-20"
+    },
+    {
       "title": "Séance jambes maison sans rack",
       "slug": "s-ance-jambes-maison-sans-rack"
     },
     {
       "title": "Sécurité & technique : amplitude — guide 10",
       "slug": "s-curit-and-technique-amplitude-guide-10"
+    },
+    {
+      "title": "Sécurité & technique : amplitude — guide 13",
+      "slug": "s-curit-and-technique-amplitude-guide-13"
     },
     {
       "title": "Sécurité & technique : deload — guide 3",
