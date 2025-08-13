@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-12T07:32:16.867837Z",
+  "updated": "2025-08-13T07:33:53.494525Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -106,6 +106,10 @@
       "slug": "kettlebells-comp-tition-guide-17"
     },
     {
+      "title": "Kettlebells : compétition — guide 4",
+      "slug": "kettlebells-comp-tition-guide-4"
+    },
+    {
       "title": "Kettlebells : débutant 8–12 kg — guide 15",
       "slug": "kettlebells-d-butant-8-12-kg-guide-15"
     },
@@ -152,6 +156,10 @@
     {
       "title": "Optimiser la récupération : sommeil et mobilité",
       "slug": "optimiser-la-r-cup-ration-sommeil-et-mobilit"
+    },
+    {
+      "title": "Plan Push/Pull/Legs simple pour débutant",
+      "slug": "plan-push-pull-legs-simple-pour-d-butant"
     },
     {
       "title": "Programmes d'entraînement : full body 3j — guide 11",
@@ -218,6 +226,10 @@
       "slug": "rangements-s-curit-guide-20"
     },
     {
+      "title": "Rangements : support disques — guide 18",
+      "slug": "rangements-support-disques-guide-18"
+    },
+    {
       "title": "Séance jambes maison sans rack",
       "slug": "s-ance-jambes-maison-sans-rack"
     },
@@ -230,8 +242,16 @@
       "slug": "s-curit-and-technique-amplitude-guide-13"
     },
     {
+      "title": "Sécurité & technique : échauffement — guide 12",
+      "slug": "s-curit-and-technique-chauffement-guide-12"
+    },
+    {
       "title": "Sécurité & technique : deload — guide 3",
       "slug": "s-curit-and-technique-deload-guide-3"
+    },
+    {
+      "title": "Sécurité & technique : progression charges — guide 7",
+      "slug": "s-curit-and-technique-progression-charges-guide-7"
     },
     {
       "title": "Sécurité & technique : respiration — guide 19",
