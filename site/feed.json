@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-17T07:29:40.751018Z",
+  "updated": "2025-08-18T07:34:06.725661Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -118,6 +118,10 @@
       "slug": "halt-res-r-glables-d-butant-guide-10"
     },
     {
+      "title": "Haltères réglables : débutant — guide 19",
+      "slug": "halt-res-r-glables-d-butant-guide-19"
+    },
+    {
       "title": "Haltères réglables : débutant — guide 2",
       "slug": "halt-res-r-glables-d-butant-guide-2"
     },
@@ -132,6 +136,10 @@
     {
       "title": "Haltères réglables : petits espaces — guide 8",
       "slug": "halt-res-r-glables-petits-espaces-guide-8"
+    },
+    {
+      "title": "Haltères réglables : qualité/prix — guide 13",
+      "slug": "halt-res-r-glables-qualit-prix-guide-13"
     },
     {
       "title": "Haltères réglables : silencieux — guide 1",
@@ -208,6 +216,14 @@
     {
       "title": "Plan Push/Pull/Legs simple pour débutant",
       "slug": "plan-push-pull-legs-simple-pour-d-butant"
+    },
+    {
+      "title": "Prévenir les blessures d’épaule aux haltères",
+      "slug": "pr-venir-les-blessures-d-paule-aux-halt-res"
+    },
+    {
+      "title": "Programmes d'entraînement : débutant — guide 13",
+      "slug": "programmes-dentra-nement-d-butant-guide-13"
     },
     {
       "title": "Programmes d'entraînement : full body 3j — guide 11",
@@ -308,6 +324,10 @@
     {
       "title": "Sécurité & technique : amplitude — guide 10",
       "slug": "s-curit-and-technique-amplitude-guide-10"
+    },
+    {
+      "title": "Sécurité & technique : amplitude — guide 11",
+      "slug": "s-curit-and-technique-amplitude-guide-11"
     },
     {
       "title": "Sécurité & technique : amplitude — guide 13",
