@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-18T07:34:06.725661Z",
+  "updated": "2025-08-19T07:29:36.757641Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -98,6 +98,10 @@
       "slug": "entretenir-ses-halt-res-rouille-et-lubrification"
     },
     {
+      "title": "Exercices : développé haltères — guide 7",
+      "slug": "exercices-d-velopp-halt-res-guide-7"
+    },
+    {
       "title": "Exercices : développé haltères — guide 9",
       "slug": "exercices-d-velopp-halt-res-guide-9"
     },
@@ -144,6 +148,10 @@
     {
       "title": "Haltères réglables : silencieux — guide 1",
       "slug": "halt-res-r-glables-silencieux-guide-1"
+    },
+    {
+      "title": "Kettlebells : budget — guide 19",
+      "slug": "kettlebells-budget-guide-19"
     },
     {
       "title": "Kettlebells : budget — guide 7",
@@ -270,6 +278,10 @@
       "slug": "programmes-dentra-nement-reprise-guide-16"
     },
     {
+      "title": "Progresser aux tractions quand on est bloqué à 3 reps",
+      "slug": "progresser-aux-tractions-quand-on-est-bloqu-3-reps"
+    },
+    {
       "title": "Quelles sangles de tirage choisir ?",
       "slug": "quelles-sangles-de-tirage-choisir"
     },
@@ -350,6 +362,10 @@
       "slug": "s-curit-and-technique-respiration-guide-19"
     },
     {
+      "title": "Sécurité & technique : respiration — guide 8",
+      "slug": "s-curit-and-technique-respiration-guide-8"
+    },
+    {
       "title": "Sécurité & technique : tempo — guide 15",
       "slug": "s-curit-and-technique-tempo-guide-15"
     },
@@ -380,6 +396,10 @@
     {
       "title": "Tapis de sol : puzzle — guide 11",
       "slug": "tapis-de-sol-puzzle-guide-11"
+    },
+    {
+      "title": "Tempo 3‑1‑1 : pourquoi ralentir l'excentrique ?",
+      "slug": "tempo-3-1-1-pourquoi-ralentir-lexcentrique"
     }
   ]
 }
