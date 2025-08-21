@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20T07:33:17.958185Z",
+  "updated": "2025-08-21T07:32:36.231330Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -20,6 +20,10 @@
     {
       "title": "Banc de musculation : incliné — guide 17",
       "slug": "banc-de-musculation-inclin-guide-17"
+    },
+    {
+      "title": "Banc de musculation : incliné — guide 6",
+      "slug": "banc-de-musculation-inclin-guide-6"
     },
     {
       "title": "Banc de musculation : pliable — guide 16",
@@ -150,6 +154,10 @@
       "slug": "halt-res-r-glables-d-butant-guide-3"
     },
     {
+      "title": "Haltères réglables : lourd 40 kg — guide 16",
+      "slug": "halt-res-r-glables-lourd-40-kg-guide-16"
+    },
+    {
       "title": "Haltères réglables : petits espaces — guide 7",
       "slug": "halt-res-r-glables-petits-espaces-guide-7"
     },
@@ -216,6 +224,10 @@
     {
       "title": "Élastiques de musculation : rééducation — guide 1",
       "slug": "lastiques-de-musculation-r-ducation-guide-1"
+    },
+    {
+      "title": "Élastiques de musculation : rééducation — guide 13",
+      "slug": "lastiques-de-musculation-r-ducation-guide-13"
     },
     {
       "title": "Élastiques de musculation : rééducation — guide 16",
@@ -370,6 +382,10 @@
       "slug": "s-curit-and-technique-chauffement-guide-12"
     },
     {
+      "title": "Sécurité & technique : échauffement — guide 16",
+      "slug": "s-curit-and-technique-chauffement-guide-16"
+    },
+    {
       "title": "Sécurité & technique : deload — guide 3",
       "slug": "s-curit-and-technique-deload-guide-3"
     },
@@ -400,6 +416,10 @@
     {
       "title": "Tapis de sol : épais — guide 12",
       "slug": "tapis-de-sol-pais-guide-12"
+    },
+    {
+      "title": "Tapis de sol : pliable — guide 3",
+      "slug": "tapis-de-sol-pliable-guide-3"
     },
     {
       "title": "Tapis de sol : protection parquet — guide 14",
