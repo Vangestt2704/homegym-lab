@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-02T07:29:50.363339Z",
+  "updated": "2025-09-03T07:28:45.121269Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -8,6 +8,10 @@
     {
       "title": "Banc de musculation : compact — guide 11",
       "slug": "banc-de-musculation-compact-guide-11"
+    },
+    {
+      "title": "Banc de musculation : compact — guide 13",
+      "slug": "banc-de-musculation-compact-guide-13"
     },
     {
       "title": "Banc de musculation : compact — guide 19",
@@ -26,6 +30,10 @@
       "slug": "banc-de-musculation-entry-level-guide-2"
     },
     {
+      "title": "Banc de musculation : entry-level — guide 3",
+      "slug": "banc-de-musculation-entry-level-guide-3"
+    },
+    {
       "title": "Banc de musculation : entry-level — guide 5",
       "slug": "banc-de-musculation-entry-level-guide-5"
     },
@@ -40,6 +48,10 @@
     {
       "title": "Banc de musculation : incliné — guide 6",
       "slug": "banc-de-musculation-inclin-guide-6"
+    },
+    {
+      "title": "Banc de musculation : lourd — guide 15",
+      "slug": "banc-de-musculation-lourd-guide-15"
     },
     {
       "title": "Banc de musculation : lourd — guide 20",
@@ -638,12 +650,20 @@
       "slug": "tapis-de-sol-anti-bruit-guide-13"
     },
     {
+      "title": "Tapis de sol : anti‑bruit — guide 7",
+      "slug": "tapis-de-sol-anti-bruit-guide-7"
+    },
+    {
       "title": "Tapis de sol : budget — guide 16",
       "slug": "tapis-de-sol-budget-guide-16"
     },
     {
       "title": "Tapis de sol : budget — guide 5",
       "slug": "tapis-de-sol-budget-guide-5"
+    },
+    {
+      "title": "Tapis de sol : épais — guide 10",
+      "slug": "tapis-de-sol-pais-guide-10"
     },
     {
       "title": "Tapis de sol : épais — guide 12",
