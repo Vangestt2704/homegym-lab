@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-08T07:30:29.604995Z",
+  "updated": "2025-09-09T07:29:34.600803Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -120,6 +120,10 @@
     {
       "title": "Barre de traction : porte — guide 17",
       "slug": "barre-de-traction-porte-guide-17"
+    },
+    {
+      "title": "Barre de traction : porte — guide 19",
+      "slug": "barre-de-traction-porte-guide-19"
     },
     {
       "title": "Barre de traction : porte — guide 6",
@@ -248,6 +252,10 @@
     {
       "title": "Exercices : tractions — guide 20",
       "slug": "exercices-tractions-guide-20"
+    },
+    {
+      "title": "Exercices : tractions — guide 8",
+      "slug": "exercices-tractions-guide-8"
     },
     {
       "title": "Guide rapides d'accessoires indispensables",
@@ -662,6 +670,10 @@
       "slug": "s-ance-jambes-maison-sans-rack"
     },
     {
+      "title": "Séance pecs‑biceps rapide (45 min)",
+      "slug": "s-ance-pecs-biceps-rapide-45-min"
+    },
+    {
       "title": "Sécurité & technique : amplitude — guide 10",
       "slug": "s-curit-and-technique-amplitude-guide-10"
     },
@@ -754,6 +766,10 @@
       "slug": "tapis-de-sol-budget-guide-19"
     },
     {
+      "title": "Tapis de sol : budget — guide 2",
+      "slug": "tapis-de-sol-budget-guide-2"
+    },
+    {
       "title": "Tapis de sol : budget — guide 5",
       "slug": "tapis-de-sol-budget-guide-5"
     },
@@ -784,6 +800,10 @@
     {
       "title": "Tapis de sol : protection parquet — guide 4",
       "slug": "tapis-de-sol-protection-parquet-guide-4"
+    },
+    {
+      "title": "Tapis de sol : protection parquet — guide 8",
+      "slug": "tapis-de-sol-protection-parquet-guide-8"
     },
     {
       "title": "Tapis de sol : puzzle — guide 11",
