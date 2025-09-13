@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-12T07:28:12.061427Z",
+  "updated": "2025-09-13T07:25:41.822049Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -270,6 +270,10 @@
       "slug": "exercices-tractions-guide-13"
     },
     {
+      "title": "Exercices : tractions — guide 2",
+      "slug": "exercices-tractions-guide-2"
+    },
+    {
       "title": "Exercices : tractions — guide 20",
       "slug": "exercices-tractions-guide-20"
     },
@@ -534,6 +538,10 @@
       "slug": "pr-venir-les-blessures-d-paule-aux-halt-res"
     },
     {
+      "title": "Programme full body 3 jours : exemple simple",
+      "slug": "programme-full-body-3-jours-exemple-simple"
+    },
+    {
       "title": "Programmes d'entraînement : débutant — guide 1",
       "slug": "programmes-dentra-nement-d-butant-guide-1"
     },
@@ -662,6 +670,10 @@
       "slug": "rangements-s-curit-guide-10"
     },
     {
+      "title": "Rangements : sécurité — guide 13",
+      "slug": "rangements-s-curit-guide-13"
+    },
+    {
       "title": "Rangements : sécurité — guide 15",
       "slug": "rangements-s-curit-guide-15"
     },
@@ -680,6 +692,10 @@
     {
       "title": "Rangements : support disques — guide 19",
       "slug": "rangements-support-disques-guide-19"
+    },
+    {
+      "title": "Rangements : support disques — guide 4",
+      "slug": "rangements-support-disques-guide-4"
     },
     {
       "title": "Rangements : support disques — guide 6",
@@ -796,6 +812,10 @@
     {
       "title": "Soulevé de terre roumain : prise mixte ou straps ?",
       "slug": "soulev-de-terre-roumain-prise-mixte-ou-straps"
+    },
+    {
+      "title": "Support disques vertical vs horizontal : lequel est le plus stable ?",
+      "slug": "support-disques-vertical-vs-horizontal-lequel-est-le-plus-stable"
     },
     {
       "title": "Tapis de sol : anti‑bruit — guide 13",
