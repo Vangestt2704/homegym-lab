@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15T07:32:31.155297Z",
+  "updated": "2025-09-16T07:30:07.101308Z",
   "items": [
     {
       "title": "Amplitude complète : quand la réduire ?",
@@ -116,6 +116,10 @@
     {
       "title": "Barre de traction : plafond — guide 1",
       "slug": "barre-de-traction-plafond-guide-1"
+    },
+    {
+      "title": "Barre de traction : plafond — guide 10",
+      "slug": "barre-de-traction-plafond-guide-10"
     },
     {
       "title": "Barre de traction : plafond — guide 12",
@@ -366,6 +370,10 @@
       "slug": "halt-res-r-glables-silencieux-guide-12"
     },
     {
+      "title": "Haltères réglables : silencieux — guide 4",
+      "slug": "halt-res-r-glables-silencieux-guide-4"
+    },
+    {
       "title": "Haltères réglables : silencieux — guide 9",
       "slug": "halt-res-r-glables-silencieux-guide-9"
     },
@@ -572,6 +580,10 @@
     {
       "title": "Programmes d'entraînement : débutant — guide 1",
       "slug": "programmes-dentra-nement-d-butant-guide-1"
+    },
+    {
+      "title": "Programmes d'entraînement : débutant — guide 12",
+      "slug": "programmes-dentra-nement-d-butant-guide-12"
     },
     {
       "title": "Programmes d'entraînement : débutant — guide 13",
@@ -850,6 +862,10 @@
       "slug": "s-curit-cales-et-tapis-anti-d-rapants-indispensables"
     },
     {
+      "title": "Silence : comment réduire le bruit des entraînements",
+      "slug": "silence-comment-r-duire-le-bruit-des-entra-nements"
+    },
+    {
       "title": "Soulevé de terre roumain : prise mixte ou straps ?",
       "slug": "soulev-de-terre-roumain-prise-mixte-ou-straps"
     },
@@ -864,6 +880,10 @@
     {
       "title": "Tapis de sol : anti‑bruit — guide 7",
       "slug": "tapis-de-sol-anti-bruit-guide-7"
+    },
+    {
+      "title": "Tapis de sol : anti‑bruit — guide 9",
+      "slug": "tapis-de-sol-anti-bruit-guide-9"
     },
     {
       "title": "Tapis de sol : budget — guide 1",
